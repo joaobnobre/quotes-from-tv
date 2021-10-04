@@ -1,11 +1,8 @@
-import QuoteGenerator from './components/QuoteGenerator';
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './App';
 
-function App() {
-  return (
-    <div>
-      <QuoteGenerator />
-    </div>
-  );
-}
-
-export default App;
+ReactDOM.render(
+    <App />,
+  document.getElementById('root')
+);

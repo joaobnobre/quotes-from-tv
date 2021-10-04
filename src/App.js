@@ -1,4 +1,5 @@
 import QuoteGenerator from './components/QuoteGenerator';
+import './app.scss';
 
 function App() {
   return (

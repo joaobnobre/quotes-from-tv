@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/quotes-from-tv/static/js/main.70ddb57c.chunk.js",
+    "main.js.map": "/quotes-from-tv/static/js/main.70ddb57c.chunk.js.map",
+    "runtime-main.js": "/quotes-from-tv/static/js/runtime-main.d28ded21.js",
+    "runtime-main.js.map": "/quotes-from-tv/static/js/runtime-main.d28ded21.js.map",
+    "index.html": "/quotes-from-tv/index.html",
+    "static/js/main.70ddb57c.chunk.js.LICENSE.txt": "/quotes-from-tv/static/js/main.70ddb57c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d28ded21.js",
+    "static/js/main.70ddb57c.chunk.js"
+  ]
+}

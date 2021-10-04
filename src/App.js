@@ -1,4 +1,4 @@
-import RandomQuote from './components/RandomQuote';
+import QuoteGenerator from './components/QuoteGenerator';
 
 function App() {
   return (
